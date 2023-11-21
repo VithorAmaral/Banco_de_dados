@@ -1,0 +1,1 @@
+update Imobiliaria.contrato set idCliente = 3 where idContrato = 1;
